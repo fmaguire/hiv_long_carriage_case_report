@@ -1,5 +1,9 @@
 # HIV Long Carriage Case Report
 
+
+[![DOI](https://zenodo.org/badge/464699387.svg)](https://zenodo.org/badge/latestdoi/464699387)
+
+
 Amplicon genomes were analysed using the SIGNAL workflow v1.4.4dev (#60dd466) 9
 (https://github.com/jaleezyy/covid-19-signal) and ncov-tools v1.8.0 (https://github.com/jts/ncov-
 tools) with the ARTICv3 primer schemes and the MN908947.3 reference genome. Annotated
