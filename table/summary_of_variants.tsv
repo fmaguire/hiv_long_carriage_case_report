@@ -1,0 +1,252 @@
+Mutation Effect	Mutation Gene	Nucleotide Mutation	Protein Mutation	Sample	Genome Position	Allele Read Count	Total Read Count	% Reads Supporting Allele
+intergenic_region	CHR_START-orf1ab	n.241C>T	No Protein Effect (n.241C>T)	2021-05-26	241	14048	14055	99.9502
+synonymous_variant	orf1ab	c.648C>T	orf1ab: synonymous p.S216S	2021-05-26	913	21096	21114	99.9147
+missense_variant	orf1ab	c.1172C>T	orf1ab:p.S391F	2021-05-26	1437	10655	10660	99.95309999999999
+synonymous_variant	orf1ab	c.1917A>G	orf1ab: synonymous p.V639V	2021-05-26	2182	10382	10388	99.9422
+synonymous_variant	orf1ab	c.2772C>T	orf1ab: synonymous p.F924F	2021-05-26	3037	18512	18515	99.9838
+missense_variant	orf1ab	c.3002C>T	orf1ab:p.T1001I	2021-05-26	3267	16480	16485	99.96969999999999
+missense_variant	orf1ab	c.5123C>A	orf1ab:p.A1708D	2021-05-26	5388	23112	23120	99.9654
+synonymous_variant	orf1ab	c.5721C>T	orf1ab: synonymous p.F1907F	2021-05-26	5986	9899	9903	99.95960000000001
+missense_variant	orf1ab	c.6689T>C	orf1ab:p.I2230T	2021-05-26	6954	12146	12152	99.9506
+conservative_inframe_deletion	orf1ab	c.11023_11031delTCTGGTTTT	orf1ab:p.S3675_F3677del	2021-05-26	11287	23788	23793	99.979
+missense_variant	orf1ab	c.14144C>T	orf1ab:p.P4715L	2021-05-26	14408	20784	20792	99.9615
+synonymous_variant	orf1ab	c.14412C>T	orf1ab: synonymous p.P4804P	2021-05-26	14676	19757	19774	99.914
+synonymous_variant	orf1ab	c.15015C>T	orf1ab: synonymous p.H5005H	2021-05-26	15279	19252	19260	99.9585
+synonymous_variant	orf1ab	c.15909_15912delCACTinsTACC	orf1ab: synonymous p.5305	2021-05-26	16173	18706	18738	99.8292
+missense_variant	orf1ab	c.16270A>G	orf1ab:p.S5424G	2021-05-26	16534	12127	12140	99.8929
+missense_variant	orf1ab	c.18188C>T	orf1ab:p.A6063V	2021-05-26	18452	21293	21311	99.91550000000001
+synonymous_variant	orf1ab	c.20748A>C	orf1ab: synonymous p.V6916V	2021-05-26	21012	18921	18932	99.94189999999999
+missense_variant	S	c.24G>C	S:p.L8F	2021-05-26	21586	10365	10376	99.894
+disruptive_inframe_deletion	S	c.204_209delACATGT	S:p.H69_V70del	2021-05-26	21764	11258	11264	99.94669999999999
+missense_variant	S	c.293C>T	S:p.S98F	2021-05-26	21855	14257	14262	99.9649
+disruptive_inframe_deletion	S	c.432_434delTTA	S:p.Y145del	2021-05-26	21990	3579	3588	99.7492
+missense_variant	S	c.1501A>T	S:p.N501Y	2021-05-26	23063	3386	3387	99.9705
+missense_variant	S	c.1709C>A	S:p.A570D	2021-05-26	23271	17099	17109	99.9416
+missense_variant	S	c.1841A>G	S:p.D614G	2021-05-26	23403	19841	19849	99.9597
+missense_variant	S	c.2042C>A	S:p.P681H	2021-05-26	23604	16610	16622	99.9278
+missense_variant	S	c.2147C>T	S:p.T716I	2021-05-26	23709	17571	17573	99.9886
+synonymous_variant	S	c.2472C>T	S: synonymous p.N824N	2021-05-26	24034	11608	11611	99.9742
+missense_variant	S	c.2944T>G	S:p.S982A	2021-05-26	24506	11956	11960	99.9666
+missense_variant	S	c.3352G>C	S:p.D1118H	2021-05-26	24914	19676	19687	99.9441
+missense_variant	ORF8	c.353T>C	ORF8:p.L118S	2021-05-26	28246	100	100	100.0
+intergenic_region	ORF8-N	n.28271delA	No Protein Effect (n.28271delA)	2021-05-26	28270	7995	8039	99.45270000000001
+missense_variant	N	c.7_9delGATinsCTA	N:p.D3L	2021-05-26	28280	8539	8542	99.9649
+missense_variant	N	c.268G>T	N:p.A90S	2021-05-26	28541	17705	17720	99.9153
+missense_variant	N	c.604_610delAGTAGGGinsTCTAAAC	N:p.RG203KR	2021-05-26	28877	7351	7380	99.607
+missense_variant	N	c.704C>T	N:p.S235F	2021-05-26	28977	7576	7581	99.934
+missense_variant	N	c.1007C>T	N:p.A336V	2021-05-26	29280	11677	11690	99.8888
+intergenic_region	CHR_START-orf1ab	n.241C>T	No Protein Effect (n.241C>T)	2021-08-23	241	7603	7607	99.9474
+synonymous_variant	orf1ab	c.648C>T	orf1ab: synonymous p.S216S	2021-08-23	913	23568	23585	99.92790000000001
+missense_variant	orf1ab	c.1172C>T	orf1ab:p.S391F	2021-08-23	1437	12762	12774	99.9061
+synonymous_variant	orf1ab	c.1917A>G	orf1ab: synonymous p.V639V	2021-08-23	2182	9319	9324	99.9464
+synonymous_variant	orf1ab	c.2772C>T	orf1ab: synonymous p.F924F	2021-08-23	3037	21257	21262	99.9765
+missense_variant	orf1ab	c.3002C>T	orf1ab:p.T1001I	2021-08-23	3267	17699	17708	99.9492
+missense_variant	orf1ab	c.5123C>A	orf1ab:p.A1708D	2021-08-23	5388	25374	25382	99.9685
+synonymous_variant	orf1ab	c.5721C>T	orf1ab: synonymous p.F1907F	2021-08-23	5986	12839	12843	99.9689
+missense_variant	orf1ab	c.6689T>C	orf1ab:p.I2230T	2021-08-23	6954	13423	13434	99.9181
+conservative_inframe_deletion	orf1ab	c.11023_11031delTCTGGTTTT	orf1ab:p.S3675_F3677del	2021-08-23	11287	26642	26652	99.9625
+missense_variant	orf1ab	c.11802G>T	orf1ab:p.M3934I	2021-08-23	12067	15817	19586	80.75670000000001
+synonymous_variant	orf1ab	c.14067T>C	orf1ab: synonymous p.N4689N	2021-08-23	14331	19259	23224	82.9271
+missense_variant	orf1ab	c.14144C>T	orf1ab:p.P4715L	2021-08-23	14408	24515	24528	99.947
+synonymous_variant	orf1ab	c.14412C>T	orf1ab: synonymous p.P4804P	2021-08-23	14676	19951	19967	99.9199
+synonymous_variant	orf1ab	c.15015C>T	orf1ab: synonymous p.H5005H	2021-08-23	15279	20061	20067	99.9701
+synonymous_variant	orf1ab	c.15909_15912delCACTinsTACC	orf1ab: synonymous p.5305	2021-08-23	16173	19084	19109	99.8692
+missense_variant	orf1ab	c.16270A>G	orf1ab:p.S5424G	2021-08-23	16534	13674	13679	99.96350000000001
+synonymous_variant	orf1ab	c.17229A>C	orf1ab: synonymous p.P5743P	2021-08-23	17493	18257	22406	81.4826
+missense_variant	orf1ab	c.18188C>T	orf1ab:p.A6063V	2021-08-23	18452	22531	22548	99.9246
+missense_variant	orf1ab	c.18517G>A	orf1ab:p.G6173S	2021-08-23	18781	19744	23643	83.5089
+synonymous_variant	orf1ab	c.20748A>C	orf1ab: synonymous p.V6916V	2021-08-23	21012	20740	20749	99.9566
+missense_variant	S	c.24G>C	S:p.L8F	2021-08-23	21586	9416	12837	73.3505
+disruptive_inframe_deletion	S	c.204_209delACATGT	S:p.H69_V70del	2021-08-23	21764	3580	3580	100.0
+missense_variant	S	c.293C>T	S:p.S98F	2021-08-23	21855	4658	4658	100.0
+disruptive_inframe_deletion	S	c.432_434delTTA	S:p.Y145del	2021-08-23	21990	1215	1218	99.7537
+missense_variant	S	c.460G>A	S:p.E154K	2021-08-23	22022	5111	5215	98.0058
+missense_variant	S	c.1337G>T	S:p.G446V	2021-08-23	22899	317	1560	20.3205
+missense_variant	S	c.1486G>C	S:p.G496R	2021-08-23	23048	1865	2278	81.87010000000001
+missense_variant	S	c.1501A>T	S:p.N501Y	2021-08-23	23063	2290	2292	99.9127
+missense_variant	S	c.1709C>A	S:p.A570D	2021-08-23	23271	18488	18493	99.973
+missense_variant	S	c.1841A>G	S:p.D614G	2021-08-23	23403	21548	21558	99.9536
+missense_variant	S	c.2042C>A	S:p.P681H	2021-08-23	23604	19604	19616	99.9388
+missense_variant	S	c.2147C>T	S:p.T716I	2021-08-23	23709	20618	20622	99.9806
+synonymous_variant	S	c.2472C>T	S: synonymous p.N824N	2021-08-23	24034	11129	11138	99.9192
+missense_variant	S	c.2944T>G	S:p.S982A	2021-08-23	24506	12770	12781	99.9139
+missense_variant	S	c.3352G>C	S:p.D1118H	2021-08-23	24914	21893	21901	99.96350000000001
+missense_variant	ORF8	c.353T>C	ORF8:p.L118S	2021-08-23	28246	210	211	99.5261
+intergenic_region	ORF8-N	n.28271delA	No Protein Effect (n.28271delA)	2021-08-23	28270	9531	9548	99.822
+missense_variant	N	c.7_9delGATinsCTA	N:p.D3L	2021-08-23	28280	10131	10137	99.9408
+missense_variant	N	c.268G>T	N:p.A90S	2021-08-23	28541	19983	19992	99.955
+missense_variant	N	c.604_610delAGTAGGGinsTCTAAAC	N:p.RG203KR	2021-08-23	28877	8268	8299	99.6265
+missense_variant	N	c.704C>T	N:p.S235F	2021-08-23	28977	8753	8757	99.95429999999999
+missense_variant	N	c.1007C>T	N:p.A336V	2021-08-23	29280	15698	15713	99.9045
+synonymous_variant	N	c.1083A>G	N: synonymous p.K361K	2021-08-23	29356	3780	17421	21.698
+intergenic_region	CHR_START-orf1ab	n.241C>T	No Protein Effect (n.241C>T)	2021-07-21	241	8044	8048	99.9503
+synonymous_variant	orf1ab	c.648C>T	orf1ab: synonymous p.S216S	2021-07-21	913	24598	24610	99.9512
+missense_variant	orf1ab	c.1172C>T	orf1ab:p.S391F	2021-07-21	1437	14788	14792	99.973
+synonymous_variant	orf1ab	c.1917A>G	orf1ab: synonymous p.V639V	2021-07-21	2182	9863	9871	99.919
+synonymous_variant	orf1ab	c.2772C>T	orf1ab: synonymous p.F924F	2021-07-21	3037	23972	23976	99.9833
+missense_variant	orf1ab	c.3002C>T	orf1ab:p.T1001I	2021-07-21	3267	19073	19084	99.94239999999999
+missense_variant	orf1ab	c.5123C>A	orf1ab:p.A1708D	2021-07-21	5388	28118	28123	99.9822
+synonymous_variant	orf1ab	c.5721C>T	orf1ab: synonymous p.F1907F	2021-07-21	5986	13566	13567	99.9926
+missense_variant	orf1ab	c.6689T>C	orf1ab:p.I2230T	2021-07-21	6954	15704	15711	99.95540000000001
+synonymous_variant	orf1ab	c.9592C>T	orf1ab: synonymous p.L3198L	2021-07-21	9857	3729	17393	21.439700000000002
+conservative_inframe_deletion	orf1ab	c.11023_11031delTCTGGTTTT	orf1ab:p.S3675_F3677del	2021-07-21	11287	29561	29573	99.9594
+missense_variant	orf1ab	c.12482C>T	orf1ab:p.T4161I	2021-07-21	12747	27410	27534	99.5496
+missense_variant	orf1ab	c.14144C>T	orf1ab:p.P4715L	2021-07-21	14408	25018	25029	99.9561
+synonymous_variant	orf1ab	c.14412C>T	orf1ab: synonymous p.P4804P	2021-07-21	14676	22289	22303	99.9372
+missense_variant	orf1ab	c.14837C>T	orf1ab:p.A4946V	2021-07-21	15101	10733	23040	46.584199999999996
+synonymous_variant	orf1ab	c.15015C>T	orf1ab: synonymous p.H5005H	2021-07-21	15279	22338	22347	99.9597
+synonymous_variant	orf1ab	c.15909_15912delCACTinsTACC	orf1ab: synonymous p.5305	2021-07-21	16173	20236	20276	99.8027
+missense_variant	orf1ab	c.16270A>G	orf1ab:p.S5424G	2021-07-21	16534	14999	15003	99.9733
+missense_variant	orf1ab	c.17674G>T	orf1ab:p.A5892S	2021-07-21	17938	4896	12456	39.306400000000004
+missense_variant	orf1ab	c.18188C>T	orf1ab:p.A6063V	2021-07-21	18452	24583	24603	99.9187
+synonymous_variant	orf1ab	c.20748A>C	orf1ab: synonymous p.V6916V	2021-07-21	21012	22482	22491	99.96000000000001
+missense_variant	S	c.24G>C	S:p.L8F	2021-07-21	21586	13945	13949	99.9713
+disruptive_inframe_deletion	S	c.204_209delACATGT	S:p.H69_V70del	2021-07-21	21764	14491	14495	99.9724
+missense_variant	S	c.293C>T	S:p.S98F	2021-07-21	21855	19644	19653	99.9542
+disruptive_inframe_deletion	S	c.420_422delTTT	S:p.F140del	2021-07-21	21979	4541	4602	98.6745
+disruptive_inframe_deletion	S	c.432_434delTTA	S:p.Y145del	2021-07-21	21990	3807	3823	99.5815
+missense_variant	S	c.1501A>T	S:p.N501Y	2021-07-21	23063	2166	2166	100.0
+missense_variant	S	c.1709C>A	S:p.A570D	2021-07-21	23271	19798	19804	99.96969999999999
+missense_variant	S	c.1841A>G	S:p.D614G	2021-07-21	23403	23412	23419	99.9701
+missense_variant	S	c.2042C>A	S:p.P681H	2021-07-21	23604	21179	21186	99.967
+missense_variant	S	c.2147C>T	S:p.T716I	2021-07-21	23709	22000	22013	99.9409
+synonymous_variant	S	c.2472C>T	S: synonymous p.N824N	2021-07-21	24034	11552	11555	99.97399999999999
+missense_variant	S	c.2944T>G	S:p.S982A	2021-07-21	24506	14284	14296	99.9161
+synonymous_variant	S	c.3054C>T	S: synonymous p.I1018I	2021-07-21	24616	4202	19217	21.8661
+missense_variant	S	c.3352G>C	S:p.D1118H	2021-07-21	24914	24638	24647	99.96350000000001
+intergenic_region	ORF7a-ORF8	n.27825delA	No Protein Effect (n.27825delA)	2021-07-21	27824	7237	7257	99.7244
+missense_variant	ORF8	c.353T>C	ORF8:p.L118S	2021-07-21	28246	330	330	100.0
+intergenic_region	ORF8-N	n.28271delA	No Protein Effect (n.28271delA)	2021-07-21	28270	10637	10686	99.5415
+missense_variant	N	c.7_9delGATinsCTA	N:p.D3L	2021-07-21	28280	11199	11205	99.9465
+missense_variant	N	c.71C>T	N:p.T24I	2021-07-21	28344	7830	21172	36.9828
+missense_variant	N	c.268G>T	N:p.A90S	2021-07-21	28541	22698	22712	99.9384
+missense_variant	N	c.604_610delAGTAGGGinsTCTAAAC	N:p.RG203KR	2021-07-21	28877	10238	10258	99.80499999999999
+missense_variant	N	c.704C>T	N:p.S235F	2021-07-21	28977	10264	10272	99.9221
+missense_variant	N	c.1007C>T	N:p.A336V	2021-07-21	29280	14333	14340	99.9512
+intergenic_region	CHR_START-orf1ab	n.241C>T	No Protein Effect (n.241C>T)	2021-05-13	241	1544	1544	100.0
+synonymous_variant	orf1ab	c.648C>T	orf1ab: synonymous p.S216S	2021-05-13	913	19730	19745	99.924
+missense_variant	orf1ab	c.1172C>T	orf1ab:p.S391F	2021-05-13	1437	10886	10910	99.78
+synonymous_variant	orf1ab	c.1917A>G	orf1ab: synonymous p.V639V	2021-05-13	2182	1770	1781	99.3824
+synonymous_variant	orf1ab	c.2772C>T	orf1ab: synonymous p.F924F	2021-05-13	3037	19016	19020	99.979
+missense_variant	orf1ab	c.3002C>T	orf1ab:p.T1001I	2021-05-13	3267	18828	18855	99.8568
+missense_variant	orf1ab	c.5123C>A	orf1ab:p.A1708D	2021-05-13	5388	19100	19103	99.9843
+synonymous_variant	orf1ab	c.5721C>T	orf1ab: synonymous p.F1907F	2021-05-13	5986	8387	8390	99.9642
+missense_variant	orf1ab	c.6689T>C	orf1ab:p.I2230T	2021-05-13	6954	6048	6055	99.8844
+conservative_inframe_deletion	orf1ab	c.11023_11031delTCTGGTTTT	orf1ab:p.S3675_F3677del	2021-05-13	11287	27488	27492	99.9855
+missense_variant	orf1ab	c.14144C>T	orf1ab:p.P4715L	2021-05-13	14408	17309	17318	99.94800000000001
+synonymous_variant	orf1ab	c.14412C>T	orf1ab: synonymous p.P4804P	2021-05-13	14676	17443	17482	99.7769
+synonymous_variant	orf1ab	c.15015C>T	orf1ab: synonymous p.H5005H	2021-05-13	15279	18555	18577	99.8816
+synonymous_variant	orf1ab	c.15909_15912delCACTinsTACC	orf1ab: synonymous p.5305	2021-05-13	16173	8236	8261	99.6974
+missense_variant	orf1ab	c.16270A>G	orf1ab:p.S5424G	2021-05-13	16534	12146	12162	99.86840000000001
+missense_variant	orf1ab	c.18188C>T	orf1ab:p.A6063V	2021-05-13	18452	20817	20838	99.8992
+synonymous_variant	orf1ab	c.20748A>C	orf1ab: synonymous p.V6916V	2021-05-13	21012	23379	23389	99.9572
+missense_variant	S	c.24G>C	S:p.L8F	2021-05-13	21586	4429	4435	99.8647
+disruptive_inframe_deletion	S	c.204_209delACATGT	S:p.H69_V70del	2021-05-13	21764	12745	12750	99.9608
+missense_variant	S	c.293C>T	S:p.S98F	2021-05-13	21855	16871	16890	99.88749999999999
+disruptive_inframe_deletion	S	c.432_434delTTA	S:p.Y145del	2021-05-13	21990	4217	4225	99.81060000000001
+missense_variant	S	c.1501A>T	S:p.N501Y	2021-05-13	23063	271	271	100.0
+missense_variant	S	c.1709C>A	S:p.A570D	2021-05-13	23271	24448	24464	99.93459999999999
+missense_variant	S	c.1841A>G	S:p.D614G	2021-05-13	23403	27789	27817	99.8993
+missense_variant	S	c.2042C>A	S:p.P681H	2021-05-13	23604	19478	19498	99.8974
+missense_variant	S	c.2147C>T	S:p.T716I	2021-05-13	23709	20082	20085	99.9851
+synonymous_variant	S	c.2472C>T	S: synonymous p.N824N	2021-05-13	24034	6213	6213	100.0
+missense_variant	S	c.2944T>G	S:p.S982A	2021-05-13	24506	12092	12112	99.8349
+missense_variant	S	c.3352G>C	S:p.D1118H	2021-05-13	24914	32235	32255	99.938
+stop_gained	ORF8	c.79C>T	ORF8:p.Q27*	2021-05-13	27972	10	10	100.0
+missense_variant	ORF8	c.155G>T	ORF8:p.R52I	2021-05-13	28048	11	11	100.0
+missense_variant	ORF8	c.218A>G	ORF8:p.Y73C	2021-05-13	28111	33	51	64.7059
+missense_variant	ORF8	c.274G>A	ORF8:p.E92K	2021-05-13	28167	28	85	32.941199999999995
+intergenic_region	ORF8-N	n.28271delA	No Protein Effect (n.28271delA)	2021-05-13	28270	5293	5340	99.1198
+missense_variant	N	c.7_9delGATinsCTA	N:p.D3L	2021-05-13	28280	5638	5717	98.6182
+missense_variant	N	c.268G>T	N:p.A90S	2021-05-13	28541	15445	15508	99.5938
+missense_variant	N	c.604_610delAGTAGGGinsTCTAAAC	N:p.RG203KR	2021-05-13	28877	4364	4374	99.7714
+missense_variant	N	c.704C>T	N:p.S235F	2021-05-13	28977	4335	4335	100.0
+missense_variant	N	c.1007C>T	N:p.A336V	2021-05-13	29280	5089	5108	99.628
+intergenic_region	CHR_START-orf1ab	n.241C>T	No Protein Effect (n.241C>T)	2021-07-11	241	4493	4495	99.9555
+synonymous_variant	orf1ab	c.648C>T	orf1ab: synonymous p.S216S	2021-07-11	913	27389	27409	99.92699999999999
+missense_variant	orf1ab	c.1172C>T	orf1ab:p.S391F	2021-07-11	1437	13066	13073	99.9465
+synonymous_variant	orf1ab	c.1917A>G	orf1ab: synonymous p.V639V	2021-07-11	2182	4405	4408	99.9319
+synonymous_variant	orf1ab	c.2772C>T	orf1ab: synonymous p.F924F	2021-07-11	3037	22973	22983	99.9565
+missense_variant	orf1ab	c.3002C>T	orf1ab:p.T1001I	2021-07-11	3267	22240	22260	99.9102
+missense_variant	orf1ab	c.5123C>A	orf1ab:p.A1708D	2021-07-11	5388	30574	30591	99.9444
+synonymous_variant	orf1ab	c.5721C>T	orf1ab: synonymous p.F1907F	2021-07-11	5986	11129	11132	99.9731
+missense_variant	orf1ab	c.6689T>C	orf1ab:p.I2230T	2021-07-11	6954	5375	5375	100.0
+conservative_inframe_deletion	orf1ab	c.11023_11031delTCTGGTTTT	orf1ab:p.S3675_F3677del	2021-07-11	11287	26434	26436	99.9924
+missense_variant	orf1ab	c.12482C>T	orf1ab:p.T4161I	2021-07-11	12747	27417	31177	87.9398
+missense_variant	orf1ab	c.14144C>T	orf1ab:p.P4715L	2021-07-11	14408	19660	19666	99.9695
+synonymous_variant	orf1ab	c.14412C>T	orf1ab: synonymous p.P4804P	2021-07-11	14676	17150	17159	99.9475
+missense_variant	orf1ab	c.14837C>T	orf1ab:p.A4946V	2021-07-11	15101	7818	20889	37.4264
+synonymous_variant	orf1ab	c.15015C>T	orf1ab: synonymous p.H5005H	2021-07-11	15279	21975	21980	99.9773
+synonymous_variant	orf1ab	c.15909_15912delCACTinsTACC	orf1ab: synonymous p.5305	2021-07-11	16173	15437	15484	99.6965
+missense_variant	orf1ab	c.16270A>G	orf1ab:p.S5424G	2021-07-11	16534	12018	12030	99.9003
+missense_variant	orf1ab	c.17674G>T	orf1ab:p.A5892S	2021-07-11	17938	4126	11022	37.434200000000004
+missense_variant	orf1ab	c.18188C>T	orf1ab:p.A6063V	2021-07-11	18452	24768	24781	99.9475
+synonymous_variant	orf1ab	c.20748A>C	orf1ab: synonymous p.V6916V	2021-07-11	21012	22256	22275	99.9147
+missense_variant	S	c.24G>C	S:p.L8F	2021-07-11	21586	4331	4333	99.9538
+disruptive_inframe_deletion	S	c.204_209delACATGT	S:p.H69_V70del	2021-07-11	21764	14934	14938	99.97319999999999
+missense_variant	S	c.293C>T	S:p.S98F	2021-07-11	21855	20835	20843	99.96159999999999
+disruptive_inframe_deletion	S	c.420_422delTTT	S:p.F140del	2021-07-11	21979	4725	5775	81.81819999999999
+disruptive_inframe_deletion	S	c.432_434delTTA	S:p.Y145del	2021-07-11	21990	3256	3267	99.66329999999999
+conservative_inframe_deletion	S	c.727_732delGCTTTA	S:p.A243_L244del	2021-07-11	22288	54	85	63.5294
+missense_variant	S	c.1501A>T	S:p.N501Y	2021-07-11	23063	950	952	99.7899
+missense_variant	S	c.1709C>A	S:p.A570D	2021-07-11	23271	23071	23072	99.9957
+missense_variant	S	c.1841A>G	S:p.D614G	2021-07-11	23403	26657	26679	99.9175
+missense_variant	S	c.2042C>A	S:p.P681H	2021-07-11	23604	23933	23950	99.929
+missense_variant	S	c.2147C>T	S:p.T716I	2021-07-11	23709	24991	25007	99.936
+synonymous_variant	S	c.2472C>T	S: synonymous p.N824N	2021-07-11	24034	9759	9765	99.9386
+missense_variant	S	c.2944T>G	S:p.S982A	2021-07-11	24506	15477	15484	99.9548
+missense_variant	S	c.3352G>C	S:p.D1118H	2021-07-11	24914	28670	28681	99.96159999999999
+intergenic_region	ORF7a-ORF8	n.27825delA	No Protein Effect (n.27825delA)	2021-07-11	27824	1386	1444	95.9834
+missense_variant	ORF8	c.353T>C	ORF8:p.L118S	2021-07-11	28246	219	219	100.0
+intergenic_region	ORF8-N	n.28271delA	No Protein Effect (n.28271delA)	2021-07-11	28270	7429	7438	99.87899999999999
+missense_variant	N	c.7_9delGATinsCTA	N:p.D3L	2021-07-11	28280	7784	7791	99.9102
+missense_variant	N	c.71C>T	N:p.T24I	2021-07-11	28344	5262	15732	33.447700000000005
+missense_variant	N	c.268G>T	N:p.A90S	2021-07-11	28541	24550	24567	99.93079999999999
+missense_variant	N	c.604_610delAGTAGGGinsTCTAAAC	N:p.RG203KR	2021-07-11	28877	10323	10362	99.6236
+missense_variant	N	c.704C>T	N:p.S235F	2021-07-11	28977	10710	10715	99.9533
+missense_variant	N	c.1007C>T	N:p.A336V	2021-07-11	29280	12498	12509	99.91210000000001
+intergenic_region	CHR_START-orf1ab	n.241C>T	No Protein Effect (n.241C>T)	2021-07-08	241	6001	6004	99.95
+synonymous_variant	orf1ab	c.648C>T	orf1ab: synonymous p.S216S	2021-07-08	913	29008	29027	99.9345
+missense_variant	orf1ab	c.1172C>T	orf1ab:p.S391F	2021-07-08	1437	11786	11789	99.97460000000001
+synonymous_variant	orf1ab	c.1917A>G	orf1ab: synonymous p.V639V	2021-07-08	2182	3905	3907	99.9488
+synonymous_variant	orf1ab	c.2772C>T	orf1ab: synonymous p.F924F	2021-07-08	3037	19843	19850	99.9647
+missense_variant	orf1ab	c.3002C>T	orf1ab:p.T1001I	2021-07-08	3267	24164	24170	99.9752
+missense_variant	orf1ab	c.5123C>A	orf1ab:p.A1708D	2021-07-08	5388	30167	30176	99.97019999999999
+synonymous_variant	orf1ab	c.5721C>T	orf1ab: synonymous p.F1907F	2021-07-08	5986	9066	9066	100.0
+missense_variant	orf1ab	c.6689T>C	orf1ab:p.I2230T	2021-07-08	6954	4982	4985	99.9398
+synonymous_variant	orf1ab	c.9592C>T	orf1ab: synonymous p.L3198L	2021-07-08	9857	3247	13264	24.479799999999997
+conservative_inframe_deletion	orf1ab	c.11023_11031delTCTGGTTTT	orf1ab:p.S3675_F3677del	2021-07-08	11287	26211	26225	99.94659999999999
+missense_variant	orf1ab	c.12482C>T	orf1ab:p.T4161I	2021-07-08	12747	29721	31716	93.7098
+missense_variant	orf1ab	c.14144C>T	orf1ab:p.P4715L	2021-07-08	14408	19131	19140	99.953
+synonymous_variant	orf1ab	c.14412C>T	orf1ab: synonymous p.P4804P	2021-07-08	14676	19471	19480	99.9538
+missense_variant	orf1ab	c.14837C>T	orf1ab:p.A4946V	2021-07-08	15101	9180	18588	49.3867
+synonymous_variant	orf1ab	c.15015C>T	orf1ab: synonymous p.H5005H	2021-07-08	15279	23418	23432	99.94030000000001
+synonymous_variant	orf1ab	c.15909_15912delCACTinsTACC	orf1ab: synonymous p.5305	2021-07-08	16173	14856	14893	99.7516
+missense_variant	orf1ab	c.16270A>G	orf1ab:p.S5424G	2021-07-08	16534	10733	10741	99.9255
+missense_variant	orf1ab	c.17674G>T	orf1ab:p.A5892S	2021-07-08	17938	3166	12817	24.701600000000003
+missense_variant	orf1ab	c.18188C>T	orf1ab:p.A6063V	2021-07-08	18452	25588	25603	99.9414
+synonymous_variant	orf1ab	c.20748A>C	orf1ab: synonymous p.V6916V	2021-07-08	21012	23254	23264	99.957
+missense_variant	S	c.24G>C	S:p.L8F	2021-07-08	21586	2835	2838	99.8943
+disruptive_inframe_deletion	S	c.204_209delACATGT	S:p.H69_V70del	2021-07-08	21764	11644	11646	99.98280000000001
+missense_variant	S	c.293C>T	S:p.S98F	2021-07-08	21855	15850	15857	99.9559
+disruptive_inframe_deletion	S	c.420_422delTTT	S:p.F140del	2021-07-08	21979	3267	3535	92.4187
+disruptive_inframe_deletion	S	c.432_434delTTA	S:p.Y145del	2021-07-08	21990	2820	2835	99.4709
+conservative_inframe_deletion	S	c.727_732delGCTTTA	S:p.A243_L244del	2021-07-08	22288	231	250	92.4
+missense_variant	S	c.1501A>T	S:p.N501Y	2021-07-08	23063	1072	1072	100.0
+missense_variant	S	c.1709C>A	S:p.A570D	2021-07-08	23271	25934	25944	99.9615
+missense_variant	S	c.1841A>G	S:p.D614G	2021-07-08	23403	29587	29601	99.95270000000001
+missense_variant	S	c.2042C>A	S:p.P681H	2021-07-08	23604	22397	22416	99.9152
+missense_variant	S	c.2147C>T	S:p.T716I	2021-07-08	23709	23285	23295	99.9571
+synonymous_variant	S	c.2472C>T	S: synonymous p.N824N	2021-07-08	24034	10064	10067	99.97019999999999
+missense_variant	S	c.2944T>G	S:p.S982A	2021-07-08	24506	16732	16741	99.94619999999999
+synonymous_variant	S	c.3054C>T	S: synonymous p.I1018I	2021-07-08	24616	5970	22940	26.024399999999996
+missense_variant	S	c.3352G>C	S:p.D1118H	2021-07-08	24914	30363	30376	99.9572
+intergenic_region	ORF7a-ORF8	n.27825delA	No Protein Effect (n.27825delA)	2021-07-08	27824	1251	1285	97.3541
+missense_variant	ORF8	c.353T>C	ORF8:p.L118S	2021-07-08	28246	110	110	100.0
+intergenic_region	ORF8-N	n.28271delA	No Protein Effect (n.28271delA)	2021-07-08	28270	8383	8390	99.9166
+missense_variant	N	c.7_9delGATinsCTA	N:p.D3L	2021-07-08	28280	8777	8782	99.9431
+missense_variant	N	c.71C>T	N:p.T24I	2021-07-08	28344	8273	17768	46.5612
+missense_variant	N	c.268G>T	N:p.A90S	2021-07-08	28541	24669	24677	99.9676
+missense_variant	N	c.604_610delAGTAGGGinsTCTAAAC	N:p.RG203KR	2021-07-08	28877	9631	9649	99.8134
+missense_variant	N	c.704C>T	N:p.S235F	2021-07-08	28977	10871	10880	99.9173
+missense_variant	N	c.1007C>T	N:p.A336V	2021-07-08	29280	13000	13008	99.93849999999999

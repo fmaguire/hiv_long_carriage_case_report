@@ -1,0 +1,7 @@
+sample	run_name	num_consensus_snvs	num_consensus_n	num_consensus_iupac	num_variants_snvs	num_variants_indel	num_variants_indel_triplet	mean_sequencing_depth	median_sequencing_depth	qpcr_ct	collection_date	num_weeks	scaled_variants_snvs	genome_completeness	qc_pass	lineage	lineage_notes	scorpio_call	watch_mutations
+JD-080721	20210830_MN01513_SRI_deepseq	40	480	5	35	10	5	17280.7	16556					0.9839	PASS	B.1.1.7	alt/ref/amb:19/1/0	Alpha (B.1.1.7-like)	S:del69-70,S:del144,S:N501Y,S:A570D,S:P681H,S:T716I,S:S982A,S:D1118H
+JD-110721	20210830_MN01513_SRI_deepseq	40	469	3	33	10	5	17281.5	16524					0.9843	PASS	B.1.1.7	alt/ref/amb:19/1/0	Alpha (B.1.1.7-like)	S:del69-70,S:del144,S:N501Y,S:A570D,S:P681H,S:T716I,S:S982A,S:D1118H
+JD-130521	20210830_MN01513_SRI_deepseq	40	274	2	32	7	3	13684.3	11836					0.9908	PASS	B.1.1.7	alt/ref/amb:21/1/0	Alpha (B.1.1.7-like)	S:del69-70,S:del144,S:N501Y,S:A570D,S:P681H,S:T716I,S:S982A,S:D1118H
+JD-210721	20210830_MN01513_SRI_deepseq	40	474	5	35	9	4	9495.2	9355					0.9841	PASS	B.1.1.7	alt/ref/amb:19/1/0	Alpha (B.1.1.7-like)	S:del69-70,S:del144,S:N501Y,S:A570D,S:P681H,S:T716I,S:S982A,S:D1118H
+JD-230821	20210830_MN01513_SRI_deepseq	45	467	3	36	8	3	17535.4	17322					0.9844	PASS	B.1.1.7	alt/ref/amb:19/1/0	Alpha (B.1.1.7-like)	S:del69-70,S:del144,S:N501Y,S:A570D,S:P681H,S:T716I,S:S982A,S:D1118H
+JD-260521	20210830_MN01513_SRI_deepseq	39	471	0	29	7	3	16275.1	16068					0.9842	PASS	B.1.1.7	alt/ref/amb:19/1/0	Alpha (B.1.1.7-like)	S:del69-70,S:del144,S:N501Y,S:A570D,S:P681H,S:T716I,S:S982A,S:D1118H

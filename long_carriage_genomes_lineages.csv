@@ -1,0 +1,7 @@
+taxon,lineage,conflict,ambiguity_score,scorpio_call,scorpio_support,scorpio_conflict,version,pangolin_version,pangoLEARN_version,pango_version,status,note
+JD-080721,B.1.1.7,0.0,0.9646844383686489,Alpha (B.1.1.7-like),0.826100,0.043500,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 19; Ref alleles 1; Amb alleles 3; Oth alleles 0
+JD-110721,B.1.1.7,0.0,0.9651560009109542,Alpha (B.1.1.7-like),0.826100,0.043500,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 19; Ref alleles 1; Amb alleles 3; Oth alleles 0
+JD-130521,B.1.1.7,0.0,0.9774977497749775,Alpha (B.1.1.7-like),0.913000,0.043500,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 1; Oth alleles 0
+JD-210721,B.1.1.7,0.0,0.9646844383686489,Alpha (B.1.1.7-like),0.826100,0.043500,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 19; Ref alleles 1; Amb alleles 3; Oth alleles 0
+JD-230821,B.1.1.7,0.0,0.9649202733485194,Alpha (B.1.1.7-like),0.826100,0.043500,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 19; Ref alleles 1; Amb alleles 3; Oth alleles 0
+JD-260521,B.1.1.7,0.0,0.9653916211293261,Alpha (B.1.1.7-like),0.826100,0.043500,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 19; Ref alleles 1; Amb alleles 3; Oth alleles 0
